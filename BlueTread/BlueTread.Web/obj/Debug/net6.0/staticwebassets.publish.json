@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "gwM9WQ1UTClCeYN0aWXBqmYFXJjTC3XFWiPVwmUOes4=",
+  "Source": "BlueTread.Web",
+  "BasePath": "_content/BlueTread.Web",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlueTread.Web\\wwwroot",
+      "Source": "BlueTread.Web",
+      "ContentRoot": "C:\\Projects\\BlueTread\\BlueTread.Web\\wwwroot\\",
+      "BasePath": "_content/BlueTread.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
