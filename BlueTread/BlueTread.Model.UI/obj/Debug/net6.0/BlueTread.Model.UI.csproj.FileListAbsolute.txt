@@ -1,0 +1,12 @@
+C:\Projects\BlueTread\BlueTread.Model.UI\bin\Debug\net6.0\BlueTread.Model.UI.deps.json
+C:\Projects\BlueTread\BlueTread.Model.UI\bin\Debug\net6.0\BlueTread.Model.UI.dll
+C:\Projects\BlueTread\BlueTread.Model.UI\bin\Debug\net6.0\BlueTread.Model.UI.pdb
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.csproj.AssemblyReference.cache
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.AssemblyInfoInputs.cache
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.AssemblyInfo.cs
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.csproj.CoreCompileInputs.cache
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.dll
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\refint\BlueTread.Model.UI.dll
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\BlueTread.Model.UI.pdb
+C:\Projects\BlueTread\BlueTread.Model.UI\obj\Debug\net6.0\ref\BlueTread.Model.UI.dll
